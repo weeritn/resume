@@ -1,16 +1,20 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: SmartLinked
+  role: Primary Developer
+  duration: May 2023
+  url: https://www.smartlinked.app/
+  description: Created an AI-powered website for LinkedIn profile optimization, using advanced machine learning to generate up to 90% of user profiles.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Agar.io
+  role: Co-Developer
+  duration: April 2023
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed an Agar.io clone using C# and the MAUI framework, demonstrating proficiency in C# programming and game development.
+
+  - project: Sprite Editor
+  role: Co-Developer
+  duration: November 2023
+  # url: "#"
+  description: Developed a cross-platform Sprite Editor using C++ and QT, with QT Creator as the IDE while implementing features, such as frame-by-frame drawing, animation preview, and other various tools.
