@@ -7,13 +7,13 @@
   url: https://www.smartlinked.app/
   description: Created an AI-powered website for LinkedIn profile optimization, using advanced machine learning to generate up to 90% of user profiles.
 
-- project: Agar.io
+- project: Agario
   role: Co-Developer
   duration: April 2023
   # url: "#"
-  description: Developed an Agar.io clone using C# and the MAUI framework, demonstrating proficiency in C# programming and game development.
+  description: Developed an Agario clone using C# and the MAUI framework, demonstrating proficiency in C# programming and game development.
 
-  - project: Sprite Editor
+- project: Sprite Editor
   role: Co-Developer
   duration: November 2023
   # url: "#"
